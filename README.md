@@ -1,5 +1,8 @@
-<h1 align="center">Hey there👋... Welcome!</h1>
-</br>
+
+<h1 align="center">Hey there👋... Welcome to my GitHub profile!</h1>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5enllYzIzdDlxZDlleTA4ZzE5aHZmNHhqYXJqc3Z3N3c3enVyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kCi48UW0OoLvRVyMLK/giphy.gif" width="200" />
+</div>
 
 ###
 
