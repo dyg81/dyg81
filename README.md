@@ -12,12 +12,6 @@
   <a href="https://www.linkedin.com/in/donaldyg81/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" /><a/>
   <a href="https://www.youtube.com/@donaldyg81"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" /><a/>
   <a href="https://x.com/donaldyg81"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" /><a/>
-  <!--
-  <a href="https://www.linkedin.com/in/donaldyg81/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
-  <a href="https://x.com/donaldyg81"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><a/>
-  <a href="https://www.youtube.com/@donaldyg81"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/> 
-  --!>
-    
 </div>
 
 </br>
@@ -30,34 +24,27 @@
 
 ## Technologies
 <p align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-
-
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML/"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>
   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=symfony,laravel,react,mysql,postgres" />
-  </a>
+  <a href="https://symfony.com/"><img src="https://skillicons.dev/icons?i=symfony" /></a>
+  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a>
+  <a href="https://es.react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 </p>
 
 </br>
 
 ## Code Editors and IDEs
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,webstorm,sublime" />
-  </a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/"><img src="https://skillicons.dev/icons?i=phpstorm" /></a>
+  <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
+  <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime" /></a>
 </p>
 
 </br>
