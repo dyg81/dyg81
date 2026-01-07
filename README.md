@@ -39,15 +39,17 @@
 </p>
 
 </br>
+
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dyg81" />
 </a>
 <a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320#gh-dark-mode-only" />
 </a>
 
-</br>
+https://github.com/Pranesh-2005/github-readme-stats#responsive-card-theme#gh-dark-mode-only
 
+</br>
 
 ![DYG81 Profile Visit Counter](https://komarev.com/ghpvc/?username=dyg81&color=blue)
 
