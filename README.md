@@ -32,7 +32,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,php" />
-  </a><a href="https://skillicons.dev">
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=symfony,laravel,react,mysql,postgres" />
   </a>
 </p>
