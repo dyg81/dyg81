@@ -3,10 +3,13 @@
 
 </br>
 
-- 👨‍🎓 A self-taught learner.
-- ⚙️ I've developed some small projects in Symfony.
-- 📊 Basic knowledge of HTML, CSS, and JS. 
-- 📈 Currently learning Laravel and React.
+👨‍🎓 A self-taught learner.
+
+⚙️ I've developed some small projects in Symfony.
+
+📊 Basic knowledge of HTML, CSS, and JS. 
+
+📈 Currently learning Laravel and React.
 
 <!-- 
 <div align="center">
