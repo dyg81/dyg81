@@ -1,6 +1,8 @@
 # Hola, mi nombre es Donald 👋
 ## Proud father, husband, and son.
- 
+
+</br>
+
 - 👨‍🎓 A self-taught learner.
 - ⚙️ I've developed some small projects in Symfony.
 - 📊 Basic knowledge of HTML, CSS, and JS. 
@@ -18,9 +20,9 @@
 > 
 > It's one of the challenges I still have ahead of me.
 
----
+</br>
 
-## Tech Used
+## Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,php,symfony,laravel,react,mysql,postgres" />
@@ -35,3 +37,5 @@
     <img src="https://skillicons.dev/icons?i=vscode,phpstorm,webstorm,sublime" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=dyg81&color=blue)
