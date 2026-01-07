@@ -3,7 +3,7 @@
 
 </br>
 
-### 👨🏼‍💻 About Me
+## 👨🏼‍💻 About Me 👨🏼‍💻
 
 👨‍🎓 A self-taught learner.
 
@@ -30,7 +30,7 @@
 
 </br>
 
-## Technologies
+## 🔗 Technologies 🔗
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Web/HTML/"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS/"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -46,7 +46,7 @@
 
 </br>
 
-## Code Editors and IDEs
+## 🧰 Code Editors and IDEs 🧰
 <p align="center">
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.jetbrains.com/phpstorm/"><img src="https://skillicons.dev/icons?i=phpstorm" /></a>
@@ -56,7 +56,7 @@
 
 </br>
 
-## Stats
+## ✔️ Stats ✔️
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320&theme=dark" />
 
