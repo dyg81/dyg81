@@ -30,7 +30,7 @@
 
 ## Technologies
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,php" />
   </a>
   <a href="https://skillicons.dev">
