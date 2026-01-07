@@ -40,6 +40,10 @@
 
 </br>
 
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=dyg81&color=blue)
-</div>
+[![DYG81's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyg81)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+
+![DYG81 Profile Visit Counter](https://komarev.com/ghpvc/?username=dyg81&color=blue)
+
