@@ -40,5 +40,6 @@
 
 </br>
 
-###
-![](https://komarev.com/ghpvc/?username=dyg81&color=blue)
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=dyg81&color=blue)
+</div>
