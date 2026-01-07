@@ -1,10 +1,10 @@
 # Hola, mi nombre es Donald 👋
 ## Proud father, husband, and son.
  
-👨‍🎓 A self-taught learner.
-⚙️ I've developed some small projects in Symfony.
-📊 Basic knowledge of HTML, CSS, and JS. 
-📈 Currently learning Laravel and React.
+- 👨‍🎓 A self-taught learner.
+- ⚙️ I've developed some small projects in Symfony.
+- 📊 Basic knowledge of HTML, CSS, and JS. 
+- 📈 Currently learning Laravel and React.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
