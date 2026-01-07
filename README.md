@@ -3,6 +3,8 @@
 
 </br>
 
+### 👨🏼‍💻 About Me
+
 👨‍🎓 A self-taught learner.
 
 ⚙️ I've developed some small projects in Symfony.
@@ -21,6 +23,7 @@
 
 </br>
 
+## ⭐ Whish List ⭐
 > I would love to one day be part of a development team that allows me to expand my knowledge in the world of web programming.
 > 
 > It's one of the challenges I still have ahead of me.
