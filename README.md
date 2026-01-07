@@ -1,42 +1,37 @@
-
-<h1 align="center">Hey there👋... Welcome to my GitHub profile!</h1>
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5enllYzIzdDlxZDlleTA4ZzE5aHZmNHhqYXJqc3Z3N3c3enVyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kCi48UW0OoLvRVyMLK/giphy.gif" width="200" />
-</div>
-
-###
+# Hola, mi nombre es Donald 👋
+## Proud father, husband, and son.
+ 
+👨‍🎓 A self-taught learner.
+⚙️ I've developed some small projects in Symfony.
+📊 Basic knowledge of HTML, CSS, and JS. 
+📈 Currently learning Laravel and React.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
+
 </br>
 
-###
+> I would love to one day be part of a development team that allows me to expand my knowledge in the world of web programming.
+> 
+> It's one of the challenges I still have ahead of me.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dyg81&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dyg81&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 </br>
 
-###
+## Tech Used
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,php,symfony,laravel,react,mysql,postgres" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-</div>
+</br>
 
-###
+## Code Editors and IDEs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,phpstorm,webstorm,sublime" />
+  </a>
+</p>
