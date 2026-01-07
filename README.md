@@ -1,4 +1,4 @@
-# Hola, mi nombre es Donald 👋
+# Hi, my name is Donald 👋
 ## Proud father, husband, and son.
 
 </br>
@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/donaldyg81/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
   <a href="https://x.com/donaldyg81"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><a/>
   <a href="https://www.youtube.com/@DonaldYG"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" />
 </div>
 
 </br>
