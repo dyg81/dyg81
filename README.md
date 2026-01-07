@@ -29,7 +29,6 @@
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>
-  
   <a href="https://symfony.com/"><img src="https://skillicons.dev/icons?i=symfony" /></a>
   <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a>
   <a href="https://es.react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
@@ -51,11 +50,8 @@
 
 ## Stats
 <div align="center">
-  <a href="https://github.com/Pranesh-2005/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320&theme=dark" />
-    </br>
-  </a>
-  
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320&theme=dark" />
+
   </br>
   
   ![DYG81 Profile Visit Counter](https://komarev.com/ghpvc/?username=dyg81&color=blue)
