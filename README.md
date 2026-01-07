@@ -9,12 +9,15 @@
 - 📈 Currently learning Laravel and React.
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/donaldyg81/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" />
+  <a href="https://www.youtube.com/@donaldyg81"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" />
+  <a href="https://x.com/donaldyg81"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" />
+  <!--
   <a href="https://www.linkedin.com/in/donaldyg81/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
   <a href="https://x.com/donaldyg81"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><a/>
-  <a href="https://www.youtube.com/@DonaldYG"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/>
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" />
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" />
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" />
+  <a href="https://www.youtube.com/@donaldyg81"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/> 
+  --!>
+    
 </div>
 
 </br>
@@ -28,7 +31,9 @@
 ## Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,php,symfony,laravel,react,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,php" />
+  </a><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=symfony,laravel,react,mysql,postgres" />
   </a>
 </p>
 
