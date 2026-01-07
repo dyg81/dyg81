@@ -52,7 +52,7 @@
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320&theme=dark" />
 
-  </br>
+  <div></br></div>
   
   ![DYG81 Profile Visit Counter](https://komarev.com/ghpvc/?username=dyg81&color=blue)
 </div>
