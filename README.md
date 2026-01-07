@@ -18,7 +18,7 @@
 > 
 > It's one of the challenges I still have ahead of me.
 
-</br>
+---
 
 ## Tech Used
 <p align="center">
