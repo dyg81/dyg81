@@ -8,11 +8,13 @@
 - 📊 Basic knowledge of HTML, CSS, and JS. 
 - 📈 Currently learning Laravel and React.
 
+<!-- 
 <div align="center">
   <a href="https://www.linkedin.com/in/donaldyg81/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" /><a/>
   <a href="https://www.youtube.com/@donaldyg81"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" /><a/>
   <a href="https://x.com/donaldyg81"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" /><a/>
 </div>
+-->
 
 </br>
 
