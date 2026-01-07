@@ -39,8 +39,12 @@
 </p>
 
 </br>
-
-[![DYG81's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyg81)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=dyg81" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dyg81&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 </br>
 
