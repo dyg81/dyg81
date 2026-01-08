@@ -23,10 +23,10 @@
 
 </br>
 
-## ⭐ Whish List ⭐
-> I would love to one day be part of a development team that allows me to expand my knowledge in the world of web programming.
+## ⭐ To inspire me ⭐
+> "You are never too old to set another goal or to dream a new dream."
 > 
-> It's one of the challenges I still have ahead of me.
+> <p align="rigth">Clive Staples Lewis</p>
 
 </br>
 
