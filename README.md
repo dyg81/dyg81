@@ -23,7 +23,7 @@
 
 </br>
 
-## ⭐ To inspire me ⭐
+## ⭐ To inspire my daily life  ⭐
 > "You are never too old to set another goal or to dream a new dream."
 > 
 > <b>Clive Staples Lewis</b>
