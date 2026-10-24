@@ -11,7 +11,7 @@
 ```yaml
 name: Donald Yañez Gonzalez
 located_in: La Habana, Cuba
-current_job: Biomedical Engineer
+current_job: Biomedical Engineering Specialist
 education:
   [
     "Self-Taught Symfony Developer",
