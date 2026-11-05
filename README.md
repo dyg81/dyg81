@@ -26,7 +26,7 @@ fields_of_interests:
   ]
 
 currently_learning: ["Docker, Javascript and CSS"]
-Next Goals: ["Create as many projects as possible from basis to advanced using Symfony, React, AI and other tools."]
+next_goals: ["Create as many projects as possible from basis to advanced using Symfony."]
 hobbies: ["Gaming", "Cinema", "Read"]
 ```
 
