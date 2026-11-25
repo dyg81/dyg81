@@ -59,10 +59,11 @@ hobbies: ["Gaming", "Cinema", "Read"]
 
 ## 🧰 Code Editors and IDEs 🧰
 <p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/phpstorm/"><img src="https://skillicons.dev/icons?i=phpstorm" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skills.syvixor.com/api/icons?i=vscode" /></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/"><img src="https://skills.syvixor.com/api/icons?i=phpstorm" /></a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" /></a>&nbsp;&nbsp;
-  <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime" /></a>
+  <a href="https://www.sublimetext.com/"><img src="https://skills.syvixor.com/api/icons?i=sublime" /></a>
+  <a href="https://www.warp.dev/"><img src="https://skills.syvixor.com/api/icons?i=warp" /></a>
 </p>
 
 </br>
